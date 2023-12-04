@@ -1,0 +1,13 @@
+Project 3 Testing Summary
+
+Student ID: luoleoric
+
+Number of Test Cases Passed: 15
+
+Test Cases Failed: 16 17 18 19 20
+
+Report Score: 10
+
+Number of Loops: 0
+
+Additional Feedback: 
